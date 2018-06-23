@@ -1,0 +1,70 @@
+.center-them {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    color: #616166;
+    font-family: Arial;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+h3 {
+    color: grey;
+    font-family: Arial;
+    font-size: 15px;
+    text-align: center;
+}
+
+#boogle-logo {
+width: 100px;
+height: 100px;
+margin-bottom: 40px;
+}
+
+#anonymous {
+width: 100px;
+height: 100px;
+padding-top: 25px;
+}
+
+.labels {
+width: 250px;
+height: 30px;
+border-radius: 6px;
+}
+
+div {
+width: 250px;
+margin: 20px auto;
+}
+
+#versenden {
+background-color: #2785BB;
+color: white;
+border: 0;
+width: 255px;
+height: 30px;
+border-radius: 6px;
+}
+
+#formular {
+width: 300px;
+height: 310px;
+background-color: #f5f7fa;
+margin: 10px auto;
+box-shadow: 1px 2px #f0ebee;
+}
+
+.link {
+text-decoration: none;
+display: block;
+text-align: center;
+color: #2785BB;
+font-size: 12px;
+font-family: Arial;
+margin: 10px auto;
+padding: 10px;
+}
