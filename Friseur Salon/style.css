@@ -1,0 +1,78 @@
+body {
+background-color: #fecffe;
+font-family: Geneva, sans-serif, Arial;
+}
+
+#nav-background{
+background-color: #1b1b1b;
+padding: 8px 0px;
+}
+
+.link-styling {
+color:  #fecffe;
+font-weight: bold;
+}
+
+a:hover {
+color: white;
+}
+
+#h1-styling {
+background-color: #1b1b1b;
+color:  #fecffe;
+font-family: Tahoma, Geneva, sans-serif;
+font-size: 34px;
+padding: 8px 5px;
+float: left;
+}
+.h2-styling {
+font-family: Tahoma, Geneva, sans-serif;
+font-size: 25px;
+text-align: center;
+margin-top: 35px;
+margin-bottom: 20px;
+}
+
+.button-style {
+background-color: #1b1b1b;
+border-color: #1b1b1b;
+color: #fecffe;
+margin-left: 380px;
+}
+.form-style {
+display: inline-block;
+width: 35%;
+margin-left: 150px;
+}
+.table-style {
+width: 30%;
+margin-right: 20px;
+display: inline-block;
+vertical-align: top;
+float: right;
+margin-right: 150px;
+}
+
+.table-footer {
+font-size: 12px;
+margin-top:-15px;
+padding-left: 15px;
+}
+
+.faqbutton {
+background-color: #1b1b1b;
+border: 0;
+}
+.faqbutton:hover {
+color: white;
+}
+
+}
+
+.faq-styling {
+background-color: #1b1b1b;
+}
+
+p {
+margin: 20px;
+}
