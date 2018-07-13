@@ -1,0 +1,37 @@
+body {
+text-align: center;
+background-color: #ffcdeb;
+font-family: Comic Sans MS, Arial;
+color: #bfbcc2;
+text-shadow: 1px 1px 1px;
+ }
+.texte {
+    color: #383738;
+    text-shadow: none;
+}
+
+#light-grey {
+    color: bfbcc2;
+}
+.img-style {
+border: 2;
+border-radius: 50%;
+width: 200px;
+height: 200px}
+.centered {
+    margin: 20px auto;
+    width:200px;
+}
+
+.background {
+    background: #c6b9d3;
+}
+
+.background:hover {
+    background: #906eb2;
+}
+
+.img-size {
+width: 200px;
+height: 200px;
+}
