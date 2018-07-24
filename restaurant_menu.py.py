@@ -1,5 +1,3 @@
-import datetime
-
 restaurant_menu = {}
 
 while True:
@@ -17,5 +15,5 @@ while True:
 print "Menu of the Day: %s" % restaurant_menu
 
 with open("menu.txt", "w+") as restaurant_menu_file:
-    for dishes in restaurant_menu:
-        restaurant_menu_file.write("%s: %s Euro\n" % (dishes, restaurant_menu[dish]))
+    for dish in restaurant_menu:
+        restaurant_menu_file.write("%s: %s Euro\n" % (dish, restaurant_menu[dish]))

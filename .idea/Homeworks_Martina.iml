@@ -6,6 +6,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="SmartNinja WD1" />
     <orderEntry type="module" module-name="unit_converter" />
+    <orderEntry type="module" module-name="SmartNinja WD1" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />
